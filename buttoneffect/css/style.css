@@ -1,0 +1,16 @@
+html{
+    width:100%;
+    height:100%;
+    background:#111;
+}
+body{
+
+}
+
+
+#canvas1{
+    background:#111;
+    display:block;
+    margin: 0 auto;
+    border:solid 6px #AAA;
+}
